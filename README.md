@@ -30,7 +30,7 @@ Here is the component and software list formatted as a structured table:
 
 ---
 
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/cb823d37-262e-45c0-9eae-5f74c9ad7ec1" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/cb823d37-262e-45c0-9eae-5f74c9ad7ec1" />
 
 ---
 
@@ -122,35 +122,35 @@ Record the regulated output voltage and compare it with the expected value.
 
 ---
 
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/2ed93ef2-397b-4748-9414-0adfb8a1ce78" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/2ed93ef2-397b-4748-9414-0adfb8a1ce78" />
 
 ---
 
 ---
 
 - secondary output
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/215ae976-41d6-466b-8acf-241eaa675637" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/215ae976-41d6-466b-8acf-241eaa675637" />
 
 ---
 
 ---
 
 - rectified output
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/94a1a71a-198e-4d81-b9be-57884d4ec0a4" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/94a1a71a-198e-4d81-b9be-57884d4ec0a4" />
 
 ---
 
 ---
 
 - Filtered output
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/c0e26b08-c33d-41a5-adb3-f84f895739c6" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/c0e26b08-c33d-41a5-adb3-f84f895739c6" />
 
 ---
 
 ---
 
 - Regulated DC supply
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/9e76cffe-de05-42df-8365-bde35926db4d" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/9e76cffe-de05-42df-8365-bde35926db4d" />
 
 ---
 
