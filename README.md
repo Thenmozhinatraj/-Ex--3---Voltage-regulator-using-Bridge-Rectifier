@@ -1,30 +1,33 @@
 # -Ex--3---Voltage-regulator-using-Bridge-Rectifier
-
-**Aim **
+- Register number: 212223060291
+- THENMOZHI N
+**Aim**
 
 To design, simulate, and analyze a regulated DC power supply using a bridge rectifier and voltage regulator IC in Proteus software, and to study the conversion of AC voltage into a stable DC output.
 
 **Apparatus Required**
 
-S.No	Components/Software	Specification
+Here is the component and software list formatted as a structured table:
 
-1	Proteus Design Suite	Version 8.0 or above
-2	AC Voltage Source	230 V AC, 50 Hz
-3	Step-down Transformer	230 V / 12 V AC
-4	Bridge Rectifier	4 × 1N4007 Diodes
-5	Filter Capacitor	1000 µF, 25 V
-6	Ceramic Capacitor	0.1 µF
-7	Voltage Regulator IC	7805 (5 V) / 7812 (12 V)
-8	LED	Power Indicator
-9	Current Limiting Resistor	330 Ω or 1 kΩ
-10	Load Resistor	220 Ω – 1 kΩ
-11	DC Voltmeter	Virtual Instrument
-12	Oscilloscope	Virtual Instrument
-13	Ground Terminal	-
+| S.No | Components / Software | Specification |
+| --- | --- | --- |
+| **1** | Proteus Design Suite | Version 8.0 or above |
+| **2** | AC Voltage Source | 230 V AC, 50 Hz |
+| **3** | Step-down Transformer | 230 V / 12 V AC |
+| **4** | Bridge Rectifier | 4 × 1N4007 Diodes |
+| **5** | Filter Capacitor | 1000 µF, 25 V |
+| **6** | Ceramic Capacitor | 0.1 µF |
+| **7** | Voltage Regulator IC | 7805 (5 V) / 7812 (12 V) |
+| **8** | LED | Power Indicator |
+| **9** | Current Limiting Resistor | 330 Ω or 1 kΩ |
+| **10** | Load Resistor | 220 Ω – 1 kΩ |
+| **11** | DC Voltmeter | Virtual Instrument |
+| **12** | Oscilloscope | Virtual Instrument |
+| **13** | Ground Terminal | — |
 
 **Circuit Diagram**
 
-(Insert the Proteus circuit diagram here.)
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/cb823d37-262e-45c0-9eae-5f74c9ad7ec1" />
 
 **Theory**
 
@@ -64,55 +67,68 @@ Proteus software enables virtual implementation and testing of the entire regula
 
 **Procedure**
 
-Open Proteus Design Suite and create a new project.
+- Open Proteus Design Suite and create a new project.
 
-Select the required components:
+- Select the required components:
 
-AC Source
+1. AC Source
 
-Step-down Transformer
+2. Step-down Transformer
 
-Four 1N4007 diodes
+3. Four 1N4007 diodes
 
-Electrolytic Capacitor
+4. Electrolytic Capacitor
 
-7805 (or 7812) Voltage Regulator
+5. 7805 (or 7812) Voltage Regulator
 
-LED and resistor
+6. LED and resistor
 
-Voltmeter and Oscilloscope
+7. Voltmeter and Oscilloscope
 
-Place the components on the workspace.
+- Place the components on the workspace.
 
-Connect the components according to the circuit diagram.
+- Connect the components according to the circuit diagram.
 
-Set the transformer output to 12 V AC.
+- Set the transformer output to 12 V AC.
 
-Connect the bridge rectifier to the transformer secondary.
+- Connect the bridge rectifier to the transformer secondary.
 
-Connect the filter capacitor across the rectifier output.
+- Connect the filter capacitor across the rectifier output.
 
-Connect the regulator IC and LED load circuit.
+- Connect the regulator IC and LED load circuit.
 
-Attach the oscilloscope and voltmeter to observe waveforms and output voltage.
+- Attach the oscilloscope and voltmeter to observe waveforms and output voltage.
 
-Run the simulation.
+- Run the simulation.
 
-Observe the waveform after:
+- Observe the waveform after:
 
-Transformer
+1. Transformer
 
-Bridge Rectifier
+2. Bridge Rectifier
 
-Filter Capacitor
+3. Filter Capacitor
 
-Voltage Regulator
+4. Voltage Regulator
 
 Record the regulated output voltage and compare it with the expected value.
 
 **Output**
 
-(Insert the Proteus output diagram here.)
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/2ed93ef2-397b-4748-9414-0adfb8a1ce78" />
+
+- secondary output
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/215ae976-41d6-466b-8acf-241eaa675637" />
+
+- rectified output
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/94a1a71a-198e-4d81-b9be-57884d4ec0a4" />
+
+- Filtered output
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/c0e26b08-c33d-41a5-adb3-f84f895739c6" />
+
+- Regulated DC supply
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/9e76cffe-de05-42df-8365-bde35926db4d" />
+
 
 **Result**
 
